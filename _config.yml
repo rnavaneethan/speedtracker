@@ -24,4 +24,4 @@ defaults:
       layout: data
       permalink: /:path/
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
